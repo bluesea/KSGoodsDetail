@@ -1,0 +1,15 @@
+PODS:
+  - KSGoodsDetailServiceProtocol (0.0.1)
+  - KSProtocolModuleManager (0.0.2)
+
+DEPENDENCIES:
+  - KSGoodsDetailServiceProtocol
+  - KSProtocolModuleManager (~> 0.0.2)
+
+SPEC CHECKSUMS:
+  KSGoodsDetailServiceProtocol: b55d30cdd3f40d93f139354f959cc4ccf6faf784
+  KSProtocolModuleManager: 8ddaa28fcf452262d693ea133605773eb89331ca
+
+PODFILE CHECKSUM: 9bdb118e0c73c6a679e17ba5948d464df882a111
+
+COCOAPODS: 1.1.1
